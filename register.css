@@ -1,0 +1,61 @@
+.cont{
+    position: absolute;
+width: 478px;
+height: 282px;
+border-radius: 15px;
+background: #D9D9D9;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 100px;
+}
+.Input{
+    position: absolute;
+width: 257px;
+height: 21px;
+
+background: #FFFFFF;
+border-radius: 15px;
+margin-left: 110px;
+margin-right: 111px;
+margin-top: 70px;
+border: none;
+}
+.Input1{
+    position: absolute;
+width: 257px;
+height: 21px;
+
+background: #FFFFFF;
+border-radius: 15px;
+margin-left: 110px;
+margin-right: 111px;
+margin-top: 109px;
+border: none;
+}
+
+.Input:hover{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 269px;
+height: 24px
+}
+.Input1:hover{
+    position: absolute;
+width: 169px;
+height: 26px;
+position: absolute;
+border-radius: 15px
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+height: 24px
+}
+.ButReg{
+    position: absolute;
+width: 169px;
+height: 26px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background: #FFFFFF;
+border-radius: 15px;
+margin-left: 154px;
+margin-right: 155px;
+margin-top: 190px;
+border: none;
+}
